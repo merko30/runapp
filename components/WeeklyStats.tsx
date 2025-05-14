@@ -42,11 +42,11 @@ const styles = StyleSheet.create({
   },
   label: {
     fontSize: 12,
-    fontWeight: "500",
+    fontWeight: "400",
   },
   value: {
-    fontSize: 12,
-    fontWeight: "bold",
+    fontSize: 14,
+    fontWeight: "600",
   },
 });
 
